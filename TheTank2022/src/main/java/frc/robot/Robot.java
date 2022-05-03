@@ -4,14 +4,6 @@
 
 /*imports*/
 
-/* prerequisites
-WPILIB: Manage Vendor Libraries
-Install New Libraries (online)
-https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix-frc2022-latest.json
-https://software-metadata.revrobotics.com/REVLib.json
-https://www.kauailabs.com/dist/frc/2022/navx_frc.json
-*/
-
 //default
 package frc.robot;
 import edu.wpi.first.wpilibj.TimedRobot;
